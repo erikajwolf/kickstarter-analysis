@@ -5,3 +5,4 @@ To start Louise off with the most success, she may want to consider launching he
 However, Louise should be cautious with her estimated budget. She is currently seeking $12k for 'Fever', but the average successful theater campaign total approximately $5000. 
 
 Overall, Louise should be optimistic for her campaign, and the category of campaigns with the highest success rate is Theater!
+/Parent Category Chart.png
