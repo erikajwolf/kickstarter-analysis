@@ -5,7 +5,7 @@ An Analysis of Kickstarter Campaigns, their categories, and their goals.
 In this project, we'll see the similarities and differences between different categories of kickstarter's, their countries, and their rate of success or failure--all for Louise to have the best opportunity at funding her play, "Fever".
 ## Analysis and Challenges
 Overall, we can see in our data and visualizations that Louise has good odds of running a successful Kickstarter campaign--this comes from her budget and her chosen category of "Theater". Her budget is significantly above the average successful goal for theater Kickstarter campaigns, but if she times the launch of her campaign correctly, she will have an over 50% chance of being successful with meeting her goal. There were over 4000 lines of data in the original dataset. A challenge included in this analysis was understanding the fundamental meaning of the data points. Once we converted our start and end dates to a MM/DD/YYYY format and separated our parent categories and subcategories, we were able to more simply understand what this data set was trying to tell us.
-![Parent Category Chart]()
+![Parent Category Chart](Parent Category Chart.png)
 ### Analysis of Outcomes Based on Launch Date
 We can see in our pivot table and pivot chart, that the vast majority of Theater campaigns finished successfully. The launch date that produced the most successful campigns is May (perhaps people want to give away their tax returns in the US). May has the highest percentage opportunity to have a successful campaign (at 66.8%). But December has the highest opportunity for a failed campaign (at 46.6%). I would recommend Louise start her campaign in May.
 ![Theater_Outcome_vs_Launch](Theater_Outcomes_vs_Launch.png)
