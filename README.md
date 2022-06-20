@@ -10,6 +10,7 @@ We can see in our pivot table and pivot chart, that the vast majority of Theater
 ![Theater_Outcome_vs_Launch](Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The most successful goal amount, to no surprise, is goals at less than $1000 (76% of these campaigns were successful). When looking at our visualization, we can see there are two dips of successful campaigns ($25,000-$29,999 & $45,000-$49,999) at 20% and 0%, respectively. There is a large spike in successful campaigns at the $35,000-$39,999 goal with a 67% success rate. However, there are more than 10-times as many campaigns in Louise's goal range, making her 54% success rate more significant. Overall, Louise's goal is higher than the successful average (avg. $5,049), and even higher than the failed average ($10,554), but there are still steps she can take to best set her up for sucess.
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 As stated above, the challenges that were encountered in this project included the size of the dataset, understanding the fundamental meaning of the data points, and converting the necessary fields to readable number formats. 
 ## Results
