@@ -12,4 +12,4 @@ The most successful goal amount, to no surprise, is goals at less than $1000 (76
 ### Challenges and Difficulties Encountered
 As stated above, the challenges that were encountered in this project included the size of the dataset, understanding the fundamental meaning of the data points, and converting the necessary fields to readable number formats. 
 ## Results
-We can conclude that Louise has more than a 50% chance of meeting her desired goal if she launches her campaign in May. The lower she sets her goal, the higher likelihood that she will be successful. 
+We can conclude that Louise has more than a 50% chance of meeting her desired goal if she launches her campaign in May. The lower she sets her goal, the higher likelihood that she will be successful. We can see that plays, overall, have high success rates--Louise should prevail and be ready to produce "Fever"!
